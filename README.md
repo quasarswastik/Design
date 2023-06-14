@@ -8,7 +8,7 @@ Work experience:
 - AI Applications & User Engagement student at Lions Eye Institute
 - Content Curator at Cecil Andrews College
 
-Feel free to reach out to me on LinkedIn at: https://www.linkedin.com/in/swastikrajchauhan/ 
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/swastikrajchauhan/). 
 
 [![Quasarswastik's github stats](https://github-readme-stats.vercel.app/api?username=quasarswastik&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quasarswastik&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
