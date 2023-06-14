@@ -4,7 +4,7 @@ My name is Swastik and I'm a software engineer from Australia. I am currently le
 
 Work experience:
 - Data & AI Consultant at Deloitte
-- Data Assurance Associate at PwC Austrlia
+- Data Assurance Associate at PwC Australia
 - AI Applications & User Engagement student at Lions Eye Institute
 - Content Curator at Cecil Andrews College
 
