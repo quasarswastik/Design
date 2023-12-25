@@ -2,8 +2,8 @@ Hi :wave:
 
 My name is Swastik and I'm a software engineer based in Perth, Western Australia. I am currently leading tech implementation for major capital projects using variety of platforms and tools. I have interest in data however, I am software engineer at heart. 
 
-Here's some of my past work experience: <br>
-🌟 Data & AI Consultant at Deloitte <br>
+Here's some of my work experience: <br>
+🌟 Senior Data & AI Consultant/Engineer at Deloitte <br>
 🌟 Data Assurance Associate at PwC Australia <br>
 🌟 AI Applications & User Engagement student at Lions Eye Institute <br>
 🌟 Content Curator at Cecil Andrews College <br>
